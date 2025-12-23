@@ -1,0 +1,15 @@
+# UBEX - Authorized Users & Passwords Reference
+
+# Format: email:password (role)
+
+# University Roles: Student, Teacher, Administration
+# Domain: @unec.edu.az
+test.student@unec.edu.az:StudentPass123! (STUDENT)
+ali.aliyev@unec.edu.az:TeacherPass456! (TEACHER)
+admin@unec.edu.az:AdminPass789! (UNIVERSITY_ADMIN)
+
+# Partner Company Roles
+# Pattern: @[companyname].unex.az
+hr@pasha.unex.az:PashaPass2025 (PARTNER_COMPANY)
+tech@azercell.unex.az:AzercellPass2025 (PARTNER_COMPANY)
+dev@google.unex.az:GooglePass2025 (PARTNER_COMPANY)
